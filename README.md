@@ -2,7 +2,7 @@
 <p>Primeiro bootcamp de dados realizado pela Mulheres em IA.</p>
 
 ## O que é Mulheres em IA? 
-<p>Mulheres em IA (MIA) é uma comunidade voltada para mulheres e tem como intuito a troca de conhecimentos na área de inteligência artificial. </p>
+<p>Mulheres em IA (MIA) é uma comunidade voltada para mulheres que tem como intuito trocar conhecimentos na área de inteligência artificial. </p>
 
 <p>Redes Sociais:</p>
 <a href="https://github.com/mulheres-em-ia">Github</a><br>
