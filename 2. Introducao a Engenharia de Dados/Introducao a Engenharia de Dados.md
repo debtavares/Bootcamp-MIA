@@ -72,8 +72,6 @@ Etapas:
 
 Fontes:
 
-[Dado estruturado e semi estruturado](https://www.astera.com/pt/type/blog/structured-semi-structured-and-unstructured-data/](https://www.astera.com/pt/type/blog/structured-semi-structured-and-unstructured-data/)
-
-[Business Inteligence](https://www.alura.com.br/artigos/business-intelligence-o-que-e](https://www.alura.com.br/artigos/business-intelligence-o-que-e)
-
 [Ladekouse: unindo o Data Lake e o Data Warehouse](https://medium.com/data-hackers/lakehouse-unindo-o-data-lake-e-o-data-warehouse-1428be2dda21)
+[Dados](https://www.astera.com/pt/type/blog/structured-semi-structured-and-unstructured-data/)
+[Business Inteligence](https://www.alura.com.br/artigos/business-intelligence-o-que-e)
