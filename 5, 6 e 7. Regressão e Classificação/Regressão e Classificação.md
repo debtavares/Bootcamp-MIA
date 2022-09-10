@@ -74,10 +74,10 @@ Separa as meias com base na cor, documentos baseados na linguagem e as músicas 
 
 Algoritmos populares:
 
-[Naive Bayes](https://www.datageeks.com.br/naive-bayes/)
-[Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
-[Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
-[K-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+[Naive Bayes](https://www.datageeks.com.br/naive-bayes/),
+[Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning),
+[Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression),
+[K-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm),
 [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
 - **Naive Bayes**
@@ -259,7 +259,7 @@ Finalizada essa etapa, temos o conjunto de dados para a modelagem. Mas antes é 
 - **Conjunto de treinamento**: utilizado pelo modelo para aprender;
 - **Conjunto de teste**: utilizado para avaliar o desempenho do modelo para dados não vistos.
 
-### ****Como iniciar um projeto com Aprendizado de Máquina?****
+### **Como iniciar um projeto com Aprendizado de Máquina?**
 
 Logo abaixo podemos ver o passo a passo (***pipeline***) que podemos tomar ao iniciar um projeto:
 
@@ -268,7 +268,7 @@ Logo abaixo podemos ver o passo a passo (***pipeline***) que podemos tomar ao in
 - **Análise exploratória:** assim como fazer um bolo, é preciso validar se há todos os ingredientes necessários antes de começar. Para saber mais sobre isso, clique [aqui.](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python)
 - **Limpeza e pré-processamento:** se no dataframe explorado tiver *outliers* eu os removo se necessário. Além disso, precisamos validar se tem dados faltantes, se houver, informar para a pessoa cliente que está faltando esses dados. Também é importante verificar se as colunas estão com o tipo certo, por exemplo: se o dataframe tem uma coluna de idade, faz sentido ela ser do tipo “float”? Para saber mais sobre pré-processamento, clique [aqui.](https://www.kaggle.com/furtadobb/2-pre-processamento-de-dados-done)
 - **Treinar o modelo:** Antes de passar os dados para o modelo, é recomendado ter pelo menos 2 datasets: um de teste e outro de treino. Eu recomendo dividir sua base em 20% para teste e 80% para treino. Os dados de treino deverão ser passados como input para o modelo realizar o treino. Essa etapa é bem importante pois assim além de treinar, é necessário saber o quanto seu modelo performa com dados que ele não conhece.
-- **Testar e avaliar os resultados gerados:** O procedimento mais comum após treinar um modelo de Machine Learning é testá-lo para que saibamos se o modelo é capaz de generalizar bem para novos dados, onde é passado como input pro modelo os dados que ele nunca viu antes. As métricas são usadas para avaliar se o modelo está “bom” ou “ruim”, ou seja, se o modelo consegue se adaptar à novos dados. Para saber mais [sobre métricas de validação para modelos de machine learning, clique](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b) aqui. Caso o resultado não seja bom, precisa ser reavaliado os parâmetros e verificar se os dados que você está usando realmente são necessários. E caso os resultados sejam bons, você pode entregar o modelo para a pessoa cliente.
+- **Testar e avaliar os resultados gerados:** O procedimento mais comum após treinar um modelo de Machine Learning é testá-lo para que saibamos se o modelo é capaz de generalizar bem para novos dados, onde é passado como input pro modelo os dados que ele nunca viu antes. As métricas são usadas para avaliar se o modelo está “bom” ou “ruim”, ou seja, se o modelo consegue se adaptar à novos dados. Para saber mais, clique [aqui](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b). Caso o resultado não seja bom, precisa ser reavaliado os parâmetros e verificar se os dados que você está usando realmente são necessários. E caso os resultados sejam bons, você pode entregar o modelo para a pessoa cliente.
 
 Fontes:
 

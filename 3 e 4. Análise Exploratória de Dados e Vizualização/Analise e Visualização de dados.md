@@ -24,7 +24,7 @@ duas estruturas de dados que são: **Séries** e **Dataframes.**
 
 **Séries**
 
-É ****um array unidimensional, semelhante a uma lista em Python, no entanto criado sobre o numpy.
+É um array unidimensional, semelhante a uma lista em Python, no entanto criado sobre o numpy.
 
 Várias series juntas (nseries) formam um dataframe.
 
@@ -36,7 +36,7 @@ O dataframe é um tipo de matriz com diversos tipos de dados.
 
 [Data sheets](https://www.datacamp.com/cheat-sheet)
 
-**Comandos mais comuns em um Dataframe
+Comandos mais comuns em um Dataframe
 
 **df.shape() -** Quantidade de linhas e colunas do Dataframe
 **df.head() -** Primeiros 5 registros do Dataframe
@@ -74,7 +74,7 @@ O dataframe é um tipo de matriz com diversos tipos de dados.
 
 É calculado no python através do **.mean()**
 
-- **Mediana:** É ****o valor médio ou a média aritmética de dois valores centrais de um conjunto
+- **Mediana:** É o valor médio ou a média aritmética de dois valores centrais de um conjunto
 de números ordenados (crescente ou decrescente). Para calculá-la, primeiramente temos
 de reorganizar os dados em ordem crescente (ou decrescente) e, em seguida, escolher o
 valor central. É calculado no python através do **.median()**
