@@ -15,7 +15,7 @@ Existem muitos **tipos de estruturas**, mas as quatro principais são:
 - listas;
 - árvores;
 - grafos;
-- Tabelas Hash
+- Tabelas Hash.
 
 Os pontos a seguir destacam as diferenças entre dados estruturados vs. dados não estruturados vs. dados semiestruturados:
 

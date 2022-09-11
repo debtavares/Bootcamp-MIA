@@ -6,9 +6,9 @@ Para extrair conhecimentos valiosos de uma análise de dados é importante lembr
 
 E assim como em outras ciências, a ciência de dados obedece a processos com etapas razoavelmente bem definidas.
 
-1. Primeiro é preciso ter uma pergunta de negócios, que irá nortear todo o processo de organização e análise de dados.
-2. Importar e organizar os dados
-3. Ciclo analítico: transformar e vizualizar usando modelos estatísticos
+1. Primeiro é preciso ter uma pergunta de negócios, que irá nortear todo o processo de organização e análise de dados;
+2. Importar e organizar os dados;
+3. Ciclo analítico: transformar e vizualizar usando modelos estatísticos;
 4. Apresentar esse projeto de maneira simples e acessível para todos na empresa.
 
 **Machine Learning**
