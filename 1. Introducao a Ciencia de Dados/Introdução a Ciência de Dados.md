@@ -1,6 +1,6 @@
 <h1>Data Science </h1>
 
-Data Science é a maneira como as empresas geram conhecimento para seus negócios.
+Data Science é a maneira como as empresas geram conhecimentos para seus negócios.
 
 Para extrair conhecimentos valiosos de uma análise de dados é importante lembrar que essa área é multidisciplinar. Resultado da interseção de estatística, ciência da computação e conhecimento de negócio. Uma parte, sem as outras, não consegue entregar todo o valor de uma análise de dados. E nem usar os insights extraídos para mudar a realidade da empresa.
 
